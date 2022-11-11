@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/barchart/static/css/main.ed0bd113.css",
+    "main.js": "/barchart/static/js/main.9192edb1.js",
+    "index.html": "/barchart/index.html",
+    "main.ed0bd113.css.map": "/barchart/static/css/main.ed0bd113.css.map",
+    "main.9192edb1.js.map": "/barchart/static/js/main.9192edb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed0bd113.css",
+    "static/js/main.9192edb1.js"
+  ]
+}
